@@ -93,4 +93,3 @@ Thanks to the open-source communities behind LLaMA, Qwen, and Mistral, and to Go
 
 ---
 
-> ⚠️ Disclaimer: This project is for research purposes only and is not a replacement for professional mental health care.
