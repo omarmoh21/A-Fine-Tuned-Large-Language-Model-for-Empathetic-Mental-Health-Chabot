@@ -81,7 +81,7 @@ If you use this work, please cite:
 ```
 @project{therapychatbot2025,
   title={Therapy Chatbot: Comparative Fine-Tuning and Evaluation of LLaMA, Qwen, and Mistral Models for Mental Health Support},
-  author={Abdelrhman Nasser},
+  author={Omar Shehata, Abdelrhman Nasser},
   institution={Nile University},
   year={2025}
 }
